@@ -1,0 +1,1710 @@
+-------- Plugin Loading Log ------------
+
+Loading from root path: /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/
+Scanning for the following file types: *.bundle, *.plugin, *.prmp, *.vst
+
+Begin PluginNameList::AddFolder /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/ 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeNoiser2.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Reverb2.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/EQ2.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeNoiser1.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Reverb1.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/EQ1.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/EQ6.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Reverb6.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeNoiser6.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Chorus6.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeEsser2.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Flanger2.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/SpectralNoiseReduction6.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeHummer1.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Dynamics6.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeEsser1.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Flanger1.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeHummer2.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/MultiBand6.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/MultiBand2.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeHummer6.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/SpectralNoiseReduction1.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Chorus1.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Dynamics2.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/MultiBand1.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/SpectralNoiseReduction2.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Flanger6.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeEsser6.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Chorus2.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Dynamics1.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeCrackler2.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/PitchShifter6.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeCrackler1.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/PitchShifter2.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeCrackler6.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/PitchShifter1.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Phaser6.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeClicker1.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeClicker2.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeClicker6.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Phaser1.vst" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Phaser2.vst" 0
+Finished PluginNameList::AddFolder /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/ 0
+Scanning /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/ and sub-directories
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeNoiser2.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Reverb2.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/EQ2.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeNoiser1.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Reverb1.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/EQ1.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/EQ6.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Reverb6.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeNoiser6.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Chorus6.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeEsser2.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Flanger2.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/SpectralNoiseReduction6.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeHummer1.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Dynamics6.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeEsser1.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Flanger1.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeHummer2.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/MultiBand6.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/MultiBand2.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeHummer6.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/SpectralNoiseReduction1.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Chorus1.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Dynamics2.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/MultiBand1.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/SpectralNoiseReduction2.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Flanger6.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeEsser6.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Chorus2.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Dynamics1.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeCrackler2.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/PitchShifter6.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeCrackler1.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/PitchShifter2.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeCrackler6.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/PitchShifter1.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Phaser6.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeClicker1.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeClicker2.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/DeClicker6.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Phaser1.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/en_US/VSTPlugins/Phaser2.vst
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading from root path: /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/
+Scanning for the following file types: *.bundle, *.plugin, *.prmp, *.vst
+
+Begin PluginNameList::AddFolder /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterMPEG.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/MPEGSourceSettings.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Mirror.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterRED.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/NoiseHLSAuto.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Find_Edges.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterGIF.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterUltraKey.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterLumetri.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/NoiseHLS.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterGraphicGroup.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterImageIO.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Blend.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/CineonEffect.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterDPX.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Bevel_Alpha.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterAlphaAdjust.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRProject2D.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Lens_Flare.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Sharpen.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterRGBCurves.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/FCPXProjectConverter.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/F65SourceSettings.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterNonRedKey.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterLightingEffect.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterGarbageMatte8.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterMP3.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterCaptioning.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterLumetri.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/OpenEXR Premiere.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/RoughenEdges.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/PaintBucket.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEAutoLevels.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRLightRays.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRGaussianBlur.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterGraphics.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Compound_Arith.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterMXF.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterShape.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Echo.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterP2.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/SolidComposite.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/TurbulentDisplace.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRGlow.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Brush_Strokes.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Ramp.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterXDCAMEX.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterAVFoundation.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterASND.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Lightning.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEAutoColor.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterTarga.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterCrossDissolve.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Unsharp_Mask.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Write_on.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRSphericalBlur.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterDipToWhite.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Checkerboard.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Stabilizer.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Texturize.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Linear_Wipe.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Color_Balance_2.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/B-C-2.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterXDCAMHD.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRChromaLeaks.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Basic_3D.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/NoiseAlpha.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEAutoContrast.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterLeader.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterDataStream.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Radial_Wipe.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterLumaCorrector.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRRotateSphere.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterColorThreeWay.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterWave.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/EyedropperFill.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterClipName.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Corner_Pin.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterQuickTime.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRIrisWipe.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterTIFF.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Bevel_Edges.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterFLV.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Posterize_Time.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterTarga.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Color_Key.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ColorsQuad.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Broadcast_Colors.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterPNG.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Ellipse.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterJPEG.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterAIFF.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterGarbageMatte16.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRMobius.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Median.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Threshold.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Motion.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ArriRawMXFSourceSettings.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterTransform.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Mosaic.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRLightLeaks.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Tint.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/CanonRawSourceSettings.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/RollingShutter.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterColorFast.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterASCCDL.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRGradientWipe.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Set_Matte.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Compound_Blur.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Drop_Shadow.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterText.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterGaussianBlur.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Channel_Blur.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Wave_Warp.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterProcAmp.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterDigitalVideoLimiter.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Color_HLS.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterFastMPEG.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterRemoveMatte.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/DPXSourceSettings.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterCrop.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterPNG.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRColorGradient.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/wraptor.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterBarsAndTone.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterBlackMatte.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterMPEG4.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/RadialShadow.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterColorRGBCorrector.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/REDSourceSettings.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Strobe_Light.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRDenoise.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Channel_Mixer.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Opacity.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Grid.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Venetian_Blinds.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/TransitionsMetaPlugin.prmp" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVideoLimiter.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterSDRConform.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Invert.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterLumaKey.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Equalize.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Noise.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/SonyRawMXFSourceSettings.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEShadowHighlight.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterMask.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterMPEGPreview.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterHDBarsAndTone.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterF65.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterAIFF.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterJPEG.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ChangeToColor.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Dust.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Arithmetic.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/PremiereFiltersMetaPlugin.prmp" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterTiff.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterPhotoshopProxy.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Posterize.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Offset.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterTimecode.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRRandomBlocks.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterDipToBlack.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterMP3.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterGarbageMatte.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRFractalNoise.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Spherize.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Emboss.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/DirectionalBlur.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRSharpen.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Gradient_Wipe.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRDigitalGlitch.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterColorMatte.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterMXF.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Fast_Blur.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/CinemaDNGSourceSettings.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Change_Color.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/PlayerMediaCore.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterMorphCut.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRChromaticAberration.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Color_Emboss.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterTransparentMatte.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Difference.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRProjection.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/CellPattern.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Block_Dissolve.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterLumaCurve.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Circle.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Calculations.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Leave_Color.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterARRIRAW.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterSimpleText.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterTrackMatteKey.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterQuickTimeHost.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterImageMatteKey.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Magnify.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterWave.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterAIEPS.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterMPEG2.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterDPX.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ARRIRAWSourceSettings.bundle" 0
+PluginNameList::AddFilePath - added "/Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Twirl.bundle" 0
+Finished PluginNameList::AddFolder /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ 0
+Scanning /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ and sub-directories
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterMPEG.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/MPEGSourceSettings.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Mirror.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterRED.bundle
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/NoiseHLSAuto.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Find_Edges.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterGIF.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterUltraKey.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterLumetri.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/NoiseHLS.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterGraphicGroup.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterImageIO.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Blend.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/CineonEffect.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterDPX.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Bevel_Alpha.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterAlphaAdjust.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRProject2D.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Lens_Flare.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Sharpen.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterRGBCurves.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/FCPXProjectConverter.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/F65SourceSettings.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterNonRedKey.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterLightingEffect.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterGarbageMatte8.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterMP3.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterCaptioning.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterLumetri.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/OpenEXR Premiere.bundle
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/RoughenEdges.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/PaintBucket.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEAutoLevels.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRLightRays.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRGaussianBlur.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterGraphics.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Compound_Arith.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterMXF.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterShape.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Echo.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterP2.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/SolidComposite.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/TurbulentDisplace.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRGlow.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Brush_Strokes.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Ramp.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterXDCAMEX.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterAVFoundation.bundle
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterASND.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Lightning.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEAutoColor.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterTarga.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterCrossDissolve.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Unsharp_Mask.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Write_on.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRSphericalBlur.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterDipToWhite.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Checkerboard.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Stabilizer.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Texturize.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Linear_Wipe.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Color_Balance_2.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/B-C-2.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterXDCAMHD.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRChromaLeaks.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Basic_3D.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/NoiseAlpha.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEAutoContrast.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterLeader.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterDataStream.bundle
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Radial_Wipe.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterLumaCorrector.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRRotateSphere.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterColorThreeWay.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterWave.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/EyedropperFill.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterClipName.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Corner_Pin.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRIrisWipe.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterTIFF.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Bevel_Edges.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterFLV.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Posterize_Time.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterTarga.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Color_Key.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ColorsQuad.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Broadcast_Colors.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterPNG.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Ellipse.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterJPEG.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterAIFF.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterGarbageMatte16.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRMobius.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Median.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Threshold.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Motion.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ArriRawMXFSourceSettings.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterTransform.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Mosaic.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRLightLeaks.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Tint.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/CanonRawSourceSettings.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/RollingShutter.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterColorFast.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterASCCDL.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRGradientWipe.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Set_Matte.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Compound_Blur.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Drop_Shadow.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterText.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterGaussianBlur.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Channel_Blur.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Wave_Warp.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterProcAmp.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterDigitalVideoLimiter.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Color_HLS.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterFastMPEG.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterRemoveMatte.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/DPXSourceSettings.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterCrop.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterPNG.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRColorGradient.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/wraptor.bundle
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterBarsAndTone.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterBlackMatte.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterMPEG4.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/RadialShadow.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterColorRGBCorrector.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/REDSourceSettings.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Strobe_Light.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRDenoise.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Channel_Mixer.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Opacity.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Grid.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Venetian_Blinds.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/TransitionsMetaPlugin.prmp
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVideoLimiter.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterSDRConform.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Invert.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterLumaKey.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Equalize.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Noise.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/SonyRawMXFSourceSettings.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEShadowHighlight.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterMask.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterMPEGPreview.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterHDBarsAndTone.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterF65.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterAIFF.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterJPEG.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ChangeToColor.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Dust.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Arithmetic.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/PremiereFiltersMetaPlugin.prmp
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterTiff.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterPhotoshopProxy.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Posterize.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Offset.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterTimecode.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRRandomBlocks.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterDipToBlack.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterMP3.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterGarbageMatte.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRFractalNoise.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Spherize.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Emboss.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/DirectionalBlur.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRSharpen.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Gradient_Wipe.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRDigitalGlitch.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterColorMatte.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterMXF.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Fast_Blur.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/CinemaDNGSourceSettings.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Change_Color.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/PlayerMediaCore.bundle
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader c9936cb9-1979-48c8-bf22-dbe0ec323274.
+This plugin was recognized by loader 1b5bc335-92e5-4479-bd38-d18bedec69b2.
+This plugin was recognized by loader 1b5bc335-92e5-4479-bd38-d18bedec69b2.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterMorphCut.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRChromaticAberration.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Color_Emboss.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterTransparentMatte.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Difference.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterVRProjection.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/CellPattern.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Block_Dissolve.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterLumaCurve.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Circle.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Calculations.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Leave_Color.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterARRIRAW.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterSimpleText.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterTrackMatteKey.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/AEFilterImageMatteKey.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Magnify.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterWave.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterAIEPS.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterMPEG2.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterDPX.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ARRIRAWSourceSettings.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/Twirl.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ExporterQuickTimeHost.bundle
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-Ins/Common/ImporterQuickTime.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading from root path: /Library/Application Support/Adobe/Common/Plug-ins/7.0/MediaCore
+Scanning for the following file types: *.bundle, *.plugin, *.prmp, *.vst
+
+Begin PluginNameList::AddFolder /Library/Application Support/Adobe/Common/Plug-ins/7.0/MediaCore 0
+Finished PluginNameList::AddFolder /Library/Application Support/Adobe/Common/Plug-ins/7.0/MediaCore 0
+Scanning /Library/Application Support/Adobe/Common/Plug-ins/7.0/MediaCore and sub-directories
+

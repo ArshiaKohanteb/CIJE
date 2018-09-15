@@ -1,0 +1,9 @@
+Log file created: Tue Sep 11 20:54:28 2018
+-------------------------------------------
+Ticks = 4027      <140735602770816> <DS> <5> GPUSniffer launching with test mask 254
+Ticks = 12054      <140735602770816> <AMEApp> <0> Time taken to load MediaCore plugins: 7067.51 milliseconds.
+Ticks = 17308      <140735602770816> <AMEApp> <1> Entering RunEventLoop
+Ticks = 170429      <140735602770816> <AMEApp> <1> Exited RunEventLoop
+-------------------------------------------
+Log file closed: Tue Sep 11 20:57:19 2018
+

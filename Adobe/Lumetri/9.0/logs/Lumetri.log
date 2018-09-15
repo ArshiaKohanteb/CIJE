@@ -1,0 +1,18 @@
+Machine:   ArshiaKohanteb in domain 
+User:      akohanteb2022
+Mode:      64-Bit
+Display:   Display not detectable
+Driver:    Driver not detectable
+CPU:       Name: Intel(R) Core(TM) i5-5350U CPU @ 1.80GHz
+           Model: 61, Family: 6, Stepping: 4 
+           Total Threads: 4
+           Features: MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 AVX F16C FMA AVX2 RDTSCP CLMUL AES RDRAND RDSEED POPCNT ABM BMI BMI2 ADX MOVBE
+Base path: /Applications/Adobe Premiere Pro CC 2018/Adobe Premiere Pro CC 2018.app/Contents/MacOS/
+Arguments: 
+
+22:34:24 [IrLog]           LogFile initialized
+22:34:24 [GlobalSettings]  Loading user settings from /Users/akohanteb2022/Documents/Adobe/Lumetri/9.0/settings/User_Settings.xml
+22:11:2122:11:21 [GlobalSettings]  Last object UID: 0x000000AF
+22:11:21 [IrLog]           Closing log file
+
+09/11/18
