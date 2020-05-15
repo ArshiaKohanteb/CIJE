@@ -1,0 +1,128 @@
+/* =================================== */
+/*  Footer Styles
+/* =================================== */
+
+.footer-area{
+    background-color:$white;
+    h4{
+        padding-bottom:30px;
+    }
+    .number{
+        color:$primary-color;
+        font-size:24px;
+        font-weight:600;
+        line-height:30px;
+    }
+
+    .genric-btn{
+        background:$primary-color;
+        border: none;
+        border-radius: 57px;
+        height: 36px;
+        line-height:41px;
+    }
+
+    .primary-btn{
+        background-color:$primary-color;
+    }
+
+    .primary-btn:hover{
+        .lnr{
+            color:$primary-color;
+        }
+    }
+
+    .footer-bottom{
+        padding-top: 80px;
+        a{
+            color:$primary-color;
+        }
+
+    .footer-text{
+        margin-bottom:0px!important;
+    }
+    .footer-social{
+        text-align:right;
+        a{
+            background: #f9f9ff;
+            width: 20px;
+            width: 40px;
+            display: inline-table;
+            height: 40px;
+            text-align: center;
+            padding-top: 10px;
+            @include transition();
+            &:hover{
+                background-color: $primary-color;
+                i{
+                    color:#fff;
+                }
+            }
+        }
+        
+        i{
+            color:#222222;
+            @include transition();
+
+        }
+        @include media-breakpoint-down(md) {
+            text-align:left;
+            margin-top:20px;
+        }
+    }
+
+
+
+    }
+    .single-footer-widget{
+        @media(max-width:768px){
+            .newsletter .primary-btn {
+                right: 2% !important;
+                width: auto;
+                right: 0;
+                top: 5px;
+                transform: translate(0%, 0);
+            }
+        }
+    }
+}
+
+.single-footer-widget{
+    .navbar-form{
+        width:100%;
+        .form-control{
+            border:none;
+            border-radius: 20px;
+            font-size:13px;
+            background-color:#f9f9ff;
+            border:1px solid $offwhite;
+            padding:9px 9px 9px 20px; 
+            &:focus{
+                box-shadow: none!important;
+            }  
+        }
+        .add-on{
+            background: #f9f9ff;
+            border-radius: 20px;
+            border: 1px solid #fff;         
+        }
+        .genric-btn{
+            padding:0px;
+            &:hover{
+                background-color:$primary-color;
+                .lnr{
+                    color:$white;
+                }
+            }
+        }
+        .error{
+            color:#FF0000;
+        }
+        .lnr{
+            padding:11px;
+            font-weight:900;
+            font-size: 13px !important;
+            color:$white;
+        }
+    }
+}

@@ -1,0 +1,68 @@
+/* =================================== */
+/*  Packages Page Styles
+/* =================================== */
+
+
+//--------- Start packages Area -------------//
+
+
+.packages-area{
+    .single-package{
+        margin-bottom:30px;
+        .thumb{
+            img{
+                width: 100%;
+            }
+        }
+        .price{
+            position: absolute;
+            right:30px;
+            text-align:right;
+            top:30px;
+            h6{
+                font-style: 12px;
+                font-weight:300;
+                text-transform:uppercase;
+                color:$white;
+                padding-bottom:20px!important;  
+                letter-spacing:2px; 
+                @include transition();         
+            }
+            span{
+                font-size:36px;
+                font-weight:600;
+                color:$white;
+                @include transition();
+            }
+        }
+        .btn{
+            position:absolute;
+            right:30px;
+            bottom:30px;
+            font-size:14px;
+            font-weight:500;
+            @include transition();
+        }
+        .overlay-bg{
+            background: rgba(#000, .5)
+        }
+        &:hover{
+            .price{
+                h6,span{
+                    color:$primary-color;
+                }
+            }
+            .btn a{
+                background:$white!important;
+                color:$primary-color!important;
+            }
+        }
+        @media(max-width: 991px){
+            margin-bottom:30px;
+        }
+    }
+
+}
+
+
+//--------- End packages Area -------------//

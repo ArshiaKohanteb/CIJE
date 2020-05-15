@@ -1,0 +1,76 @@
+/* =================================== */
+/*  Trainer Page Styles
+/* =================================== */
+
+//--------- start trainer Area -------------//
+
+.trainer-area{
+    background-color:$offwhite;
+    
+    .single-trainer{
+        padding:10px;
+    }
+
+    .thumb {
+        position: relative;
+    }
+
+    .thumb div {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background-color:rgba($primary-color, .8);
+        color: #fff;
+        opacity:0;
+        transition: opacity 0.5s;
+        i{
+            color:#fff;
+            font-size:20px;
+            padding:10px;
+            z-index:2;
+        }
+    }
+    .thumb img {
+        display: block;
+        width:100%
+    }
+
+    .thumb div span{
+        display: block;
+        position: absolute;
+        bottom: 30px;
+        left: 20px;
+        text-transform:uppercase;
+        font-size:18px;
+        font-weight:600;
+        letter-spacing:3px;
+    }
+
+    .thumb div p{
+        display: block;
+        position: absolute;
+        bottom: 10px;
+        left: 20px;
+        font-weight:100;
+        @media( max-width:768px){
+            bottom:-15px;
+        }
+    }
+    .thumb a i{
+        color:rgba(#fff, .3);
+        @include transition();
+        &:hover{
+            color:$white;
+        }
+    }
+
+    .thumb:hover div {
+       opacity:1;
+        cursor:pointer;
+    }
+
+
+}
+//--------- end trainer area  -------------//

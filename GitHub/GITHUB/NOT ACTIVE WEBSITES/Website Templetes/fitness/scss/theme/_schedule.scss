@@ -1,0 +1,51 @@
+/* =================================== */
+/*  Schedule Page Styles
+/* =================================== */
+
+//--------- Start table Area -------------//
+
+.table-wrap{
+    @media(max-width: 768px){
+        overflow-x: scroll;
+    }
+}
+
+.table{
+    text-align:center;
+    th{
+        font-weight: 300;
+        padding:25px;
+        vertical-align: middle;
+    }
+    td{
+        vertical-align: middle;
+    }
+    tr{
+        @include transition();
+        &:hover{
+            background-color:$primary-color;
+            color:$white;     
+            box-shadow: 0px 20px 60px 0px rgba(246, 33, 75, 0.3);
+        }
+    }
+}
+
+.thead-light .head{
+    text-transform:uppercase;
+    font-weight:700;
+    color:$black !important;
+}
+
+.schedule-img{
+    position: absolute;
+    right: 0;
+    top: 64%;
+    z-index: -1;
+    width: 20%;
+
+    @media(max-width:960px){
+        display:none;
+    }
+}
+
+//--------- End table Area -------------//

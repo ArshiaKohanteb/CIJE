@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+    
+    <script>
+    function redirect() 
+    {
+        window.open('https://docs.google.com/forms/d/e/1FAIpQLSeCYFTPdTdNu0q3lgxkd8ukdMx_rPpKPjoAspffsovCRnFirQ/viewform?usp=sf_link');
+    }
+    
+function passWord() {
+var testV = 1;
+var pass1 = prompt('Please Enter Your Password',' ');
+while (testV < 100) {
+if (!pass1) 
+history.go(-1);
+if (pass1.toLowerCase() == "yula2022") {
+alert('Welcome to homeworkservices.tk');
+window.open('https://homework.kickshops.com/');
+break;
+} 
+testV+=1;
+var pass1 = 
+prompt('Password Incorrect, Please Try Again.','Password');
+}
+if (pass1.toLowerCase()!="password" & testV ==3) 
+history.go(-1);
+return " ";
+} 
+</script>
+    
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Homework Services</title>
+    <link href="https://fonts.googleapis.com/css?family=Heebo:400,700|IBM+Plex+Sans:600" rel="stylesheet">
+    <link rel="stylesheet" href="dist/css/style.css">
+    <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+</head>
+<body class="is-boxed has-animations">
+    <div class="body-wrap boxed-container">
+        <header class="site-header">
+            <div class="container">
+                <div class="site-header-inner">
+                    <div class="brand header-brand">
+                        <h1 class="m-0">
+                            <a href="#">
+								<img class="header-logo-image asset-light" src="dist/images/logo-light.svg" alt="Logo">
+								<img class="header-logo-image asset-dark" src="dist/images/logo-dark.svg" alt="Logo">
+                            </a>
+                        </h1>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <section class="hero">
+                <div class="container">
+                    <div class="hero-inner">
+						<div class="hero-copy">
+	                        <h1 class="hero-title mt-0">Homework Services</h1>
+	                        <p class="hero-paragraph">Welcome to HOMEWORKSERVICES.TK</p>
+	                        <div class="hero-cta">
+								<a class="button button-primary" onClick="passWord()" href="#">Go To Website</a>
+                                <a class="button button-primary" onClick="redirect()" href="#">Submit Documents Here</a>
+								<div class="lights-toggle">
+									
+                                    
+									
+								</div>
+							</div>
+						</div>
+						<div class="hero-media">
+							<div class="header-illustration">
+								<img class="header-illustration-image asset-light" src="dist/images/header-illustration-light.svg" alt="Header illustration">
+								<img class="header-illustration-image asset-dark" src="dist/images/header-illustration-dark.svg" alt="Header illustration">
+							</div>
+							<div class="hero-media-illustration">
+								<img class="hero-media-illustration-image asset-light" src="dist/images/hero-media-illustration-light.svg" alt="Hero media illustration">
+								<img class="hero-media-illustration-image asset-dark" src="dist/images/hero-media-illustration-dark.svg" alt="Hero media illustration">
+							</div>
+							<div class="hero-media-container">
+								<img class="hero-media-image asset-light" src="dist/images/hero-media-light.svg" alt="Hero media">
+								<img class="hero-media-image asset-dark" src="dist/images/hero-media-dark.svg" alt="Hero media">
+							</div>
+						</div>
+                    </div>
+                </div>
+            </section>
+        <center>
+            <input id="lights-toggle" type="checkbox" name="lights-toggle" class="switch" checked="checked">
+            <label for="lights-toggle" class="text-xs"><span>Turn me <span class="label-text">dark</span></span></label>
+</center>
+		
+        </main>
+
+    </div>
+
+    <script src="dist/js/main.min.js"></script>
+</body>
+</html>

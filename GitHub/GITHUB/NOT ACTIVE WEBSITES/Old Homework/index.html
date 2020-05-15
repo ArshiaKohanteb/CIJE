@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<script>
+    function redirect() 
+    {
+        window.open('https://docs.google.com/forms/d/e/1FAIpQLSeCYFTPdTdNu0q3lgxkd8ukdMx_rPpKPjoAspffsovCRnFirQ/viewform?usp=sf_link');
+    }
+    
+function passWord() {
+var testV = 1;
+var pass1 = prompt('Please Enter Your Password',' ');
+while (testV < 100) {
+if (!pass1) 
+history.go(-1);
+if (pass1.toLowerCase() == "yula2022") {
+alert('Welcome to homeworkservices.tk');
+window.open('https://homework.kickshops.com/');
+break;
+} 
+testV+=1;
+var pass1 = 
+prompt('Password Incorrect, Please Try Again.','Password');
+}
+if (pass1.toLowerCase()!="password" & testV ==3) 
+history.go(-1);
+return " ";
+} 
+</script>
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>YULA Services</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/grayscale.min.css" rel="stylesheet">
+
+  </head>
+  <body id="page-top">
+    <!-- Header -->
+    <header class="masthead">
+      <div class="container d-flex h-100 align-items-center">
+        <div class="mx-auto text-center">
+          <h1 class="mx-auto my-0 text-uppercase">Homework Services</h1>
+          <h2 class="text-white-50 mx-auto mt-2 mb-5">Please enter your student password to enter</h2>
+            <form>
+            <input type="button" value="CLICK HERE" onClick="passWord()"  class="btn btn-primary" >
+                <h2 class="text-white-50 mx-auto mt-2 mb-5">or click here to submit documents.</h2>
+                <input type="button" value="CLICK HERE" onClick="redirect()"  class="btn btn-primary" >
+            </form>
+        </div>
+      </div>
+    </header>
+        
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/grayscale.min.js"></script>
+
+  </body>
+
+</html>
